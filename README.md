@@ -332,4 +332,4 @@ print(f"Model accuracy using Fisher Score selected features: {accuracy}")
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus, Feature selection and Feature scaling has been used on thegiven dataset.
